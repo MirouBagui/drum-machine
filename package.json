@@ -2,6 +2,7 @@
   "name": "drum-machine-0.1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.miroubagui.com/drum/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.0",
     "bootstrap": "^5.0.2",
