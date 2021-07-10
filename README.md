@@ -1,6 +1,6 @@
 This project was created by Amir [Mirou Bagui](https://github.com/MirouBagui),check out [FreeCodeCamp](https://www.freecodecamp.org/miroubagui)
 
-# Project Description: Drum Machine from Front End Libraries Projects of Freecodecamp
+# Drum Machine from Front End Libraries Projects of Freecodecamp
 
 ## Available Scripts
 
